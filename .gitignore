@@ -1,2 +1,2 @@
-projects/java/laika2/jars/original/laika2.jar
-projects/java/laika3/jars/original/laika3.jar
+projects/java/**/*.jar
+projects/java/**/*.class
