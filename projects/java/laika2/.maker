@@ -1,0 +1,3 @@
+javac com/ibm/iTestJava/thread/laika/*.java
+jar -cfm jars/yourown.jar META-INF/MANIFEST.MF com/ META-INF/
+echo "To test run 'java -jar jars/yourown.jar -h'"
